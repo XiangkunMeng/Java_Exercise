@@ -1,4 +1,4 @@
-package StringTokenizerDemo;
+package java_lib.StringTokenizerDemo;
 
 import java.util.StringTokenizer;
 
